@@ -1,7 +1,8 @@
-package com.example.playingnumbers
+package com.example.playingnumbers.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.playingnumbers.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
